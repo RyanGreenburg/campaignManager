@@ -15,19 +15,20 @@ class UserController {
     
     // MARK: - CRUD
     
-    func create() {
-        
+    func create(name: String) {
+        let newUser = User(name: name)
+        currentUser = newUser
     }
     
     func fetch() {
         
     }
     
-    func update() {
+    func update(user: User) {
         
     }
     
-    func delete() {
+    func delete(user: User) {
         
     }
 }

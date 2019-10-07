@@ -17,6 +17,15 @@ DerivedData/
 !default.perspectivev3
 xcuserdata/
 
+## File Typesus
+*.moved-aside
+*.xcuserstate
+*.DS_Store
+
+## Files
+Podfile.lock
+Manifest.lock
+
 ## Other
 *.moved-aside
 *.xccheckout

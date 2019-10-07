@@ -7,3 +7,24 @@
 //
 
 import Foundation
+
+class StatsController {
+    
+    // MARK: - CRUD
+    
+    func create() {
+        
+    }
+    
+    func fetch() {
+        
+    }
+    
+    func update() {
+        
+    }
+    
+    func delete() {
+        
+    }
+}

@@ -7,3 +7,23 @@
 //
 
 import Foundation
+
+class NoteController {
+    
+    // MARK: - CRUD
+    func create() {
+        
+    }
+    
+    func fetch() {
+        
+    }
+    
+    func update() {
+        
+    }
+    
+    func delete() {
+        
+    }
+}

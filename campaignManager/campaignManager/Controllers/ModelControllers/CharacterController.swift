@@ -7,3 +7,23 @@
 //
 
 import Foundation
+
+class CharacterController {
+    
+    // MARK: - CRUD
+    func create() {
+        
+    }
+    
+    func fetch() {
+        
+    }
+    
+    func update() {
+        
+    }
+    
+    func delete() {
+        
+    }
+}

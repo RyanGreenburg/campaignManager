@@ -7,3 +7,24 @@
 //
 
 import Foundation
+
+class CampaignController {
+    
+    
+    // MARK: - CRUD
+    func create() {
+        
+    }
+    
+    func fetch() {
+        
+    }
+    
+    func update() {
+        
+    }
+    
+    func delete() {
+        
+    }
+}
